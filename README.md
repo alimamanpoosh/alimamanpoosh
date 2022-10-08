@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali M'amanpoosh
-- 👀 I'm interested in Everything, Even you
+- 👀 I'm interested in Everything, Even you ☺
 - 🌱 I’m currently learning Deep learning and AI
 - 📫 How to reach me : instagram "ali_mamanpoosh" tel "@Ali_mnp"
 
