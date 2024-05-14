@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali M'amanpoosh
 - 👀 I'm interested in Everything, Even you ☺
-- 🌱 I’m currently learning Deep learning and AI
+- 🌱 I’m currently learning NLP and VLM
 - 📫 How to reach me : instagram "ali_mamanpoosh" tel "@Ali_mnp"
 
 <!---
